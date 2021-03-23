@@ -42,7 +42,7 @@ I am Md. Rashed - Uz - Zaman (Rz Rasel), working as senior software engineer. I 
 
 <br />
 
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **rzrasel/rzrasel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
