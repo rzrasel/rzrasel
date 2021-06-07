@@ -1,6 +1,6 @@
 # Rz Rasel
 
-I am Md. Rashed - Uz - Zaman (Rz Rasel), working as senior software engineer. I really enjoy learning languages and frameworks like Java, Swift, Unity, as well as work in Python. I also enjoy wireframing, ui, ux, and design in general.
+I am Md. Rashed - Uz - Zaman (Rz Rasel), working as senior software engineer. I really enjoy learning languages and frameworks like Java, Swift, Unity, as well as work in Python. I also enjoy wireframing, ui, ux, and design in general. ![GitHub followers](https://img.shields.io/github/followers/rzrasel?logo=GitHub&style=for-the-badge)
 
 ### Connect with me
 
