@@ -45,6 +45,7 @@ I am Md. Rashed - Uz - Zaman (Rz Rasel), working as senior software engineer. I 
 <br />
 <br />
 
+![Rz Rasel's stats](https://github-readme-stats.vercel.app/api/wakatime?username=rzrasel)
 
 
 <!--
