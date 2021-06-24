@@ -7,7 +7,7 @@ I am Md. Rashed - Uz - Zaman (Rz Rasel), working as senior software engineer. I 
 ### Connect with me
 
 <img align="left" alt="rzrasel.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<!--<img align="left" alt="rzrasel | YouTube" width="22px" src="https://www.youtube.com/channel/UC6Re90rPulj_zXFzc0kLdng" />-->
+<img align="left" alt="rzrasel | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="rzrasel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="rzrasel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="rzrasel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -20,7 +20,6 @@ I am Md. Rashed - Uz - Zaman (Rz Rasel), working as senior software engineer. I 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzrasel&layout=compact&hide=html&show_icons=true&theme=nord" alt="rzrasel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rzrasel&show_icons=true&theme=nord" alt="rzrasel" /></p>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzrasel&show_icons=true&theme=nord)
 
