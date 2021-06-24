@@ -17,11 +17,10 @@ I am Md. Rashed - Uz - Zaman (Rz Rasel), working as senior software engineer. I 
 ### Languages and Tools
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzrasel&layout=compact&hide=html&show_icons=true&theme=radical" alt="rzrasel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzrasel&layout=compact&hide=html&show_icons=true&theme=merko" alt="rzrasel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rzrasel&show_icons=true&theme=radical" alt="rzrasel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rzrasel&show_icons=true&theme=merko" alt="rzrasel" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzrasel)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
