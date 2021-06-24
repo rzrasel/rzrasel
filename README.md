@@ -21,9 +21,8 @@ I am Md. Rashed - Uz - Zaman (Rz Rasel), working as senior software engineer. I 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rzrasel&show_icons=true&theme=nord" alt="rzrasel" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rzrasel&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" alt="rzrasel" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzrasel)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzrasel&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=merko)
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
